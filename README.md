@@ -69,7 +69,7 @@ Solo se requiere un navegador moderno con soporte para `<canvas>` y ES6+.
 
     (Esto abrirá el slider en el navegador con la ruta: <http://localhost:5173>)
 
-# Tecnologías utilizadas
+## Tecnologías utilizadas
 
 - Vue 3 + Composition API
 
