@@ -59,6 +59,8 @@ Solo se requiere un navegador moderno con soporte para `<canvas>` y ES6+.
     npm run preview
     ```
 
+    (Esto habilitará el slider para acceder en el navegador con la ruta: <http://localhost:4174> o cualquier puerto disponible luego del 4174)
+
 ## Iniciar en modo desarrollo
 
 1. Iniciar el modo de desarrollo:
@@ -67,7 +69,7 @@ Solo se requiere un navegador moderno con soporte para `<canvas>` y ES6+.
     npm run dev
     ```
 
-    (Esto abrirá el slider en el navegador con la ruta: <http://localhost:5173>)
+    (Esto abrirá el slider en el navegador con la ruta: <http://localhost:5173> o cualquier puerto disponible luego del 4174)
 
 ## Tecnologías utilizadas
 
