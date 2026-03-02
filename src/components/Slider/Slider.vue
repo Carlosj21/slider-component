@@ -116,7 +116,6 @@ onUnmounted(() => {
 }
 
 .slider-canvas {
-    margin: 20px auto;
     outline: 1px solid #ccc;
     cursor: grab;
     width: 640px;
