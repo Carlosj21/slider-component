@@ -1,0 +1,10 @@
+// The 7-1 pattern is a SCSS architecture that organizes code into 7 folders (base, components, layout, pages, themes, utils, and vendors) and a single main file (main.scss) that imports everything.
+// Its goal is to keep the project scalable, modular, and easy to maintain.
+@import './base/index';
+@import './components/index';
+@import './layout/index';
+@import './pages/index';
+@import './themes/index';
+@import './utils/index';
+@import './vendors/index';
+
